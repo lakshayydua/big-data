@@ -1,0 +1,3 @@
+Please follow the link given below to view the visualization part of this project:
+
+https://public.tableau.com/profile/lakshayy.dua#!/vizhome/U_S_WeatherForecastingusingBigData/Story1?publish=yes
